@@ -1,1 +1,5 @@
-Uveďte argumenty v prospech rozhodnutia postupovať vo vašom projekte spôsobom
+detailne opisat dokazovanie hypotez
+spravit bayesa
+lepsie opisat dataset
+premenovanie df_train v data exploration
+sfinalizovanie projektu
