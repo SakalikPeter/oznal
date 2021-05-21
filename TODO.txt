@@ -1,5 +1,0 @@
-detailne opisat dokazovanie hypotez
-detailne opisat bajesa
-lepsie opisat dataset
-premenovanie df_train v data exploration
-sfinalizovanie projektu
